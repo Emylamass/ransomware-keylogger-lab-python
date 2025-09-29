@@ -22,7 +22,7 @@ files .applend(file)
 secretkey = key .read()
  passphrase = "CyBers3ec"
  upassword = input("Enter the password to decrypt your files:
- if upassword - passphrase:
+ if upassword - passphrase: 
 
 for file in files:
 
